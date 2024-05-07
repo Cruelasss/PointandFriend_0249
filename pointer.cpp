@@ -30,6 +30,6 @@ class segitiga
 
 };
 
-int main()
-
-
+int main(){
+    persegiPanjang pp;
+    
