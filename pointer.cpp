@@ -40,6 +40,8 @@ int main(){
       cout << "Masukan Alas : ";
     cin >> sg.alas;
     cout << "Masukan TInggi : ";
+    cin >> sg.tinggi;
+    
    
     
    
