@@ -23,6 +23,13 @@ class segitiga
     {
         return 0,5* a * t;
     }
+    int hitung(persegipanjang p)
+{
+    return p.panjang;
+}
+
 };
+
+int main()
 
 
