@@ -37,6 +37,11 @@ int main(){
      cin >> pp.panjang;
       cout << "Masukan Lebar : ";
        cin >> pp.lebar;
+      cout << "Masukan Alas : ";
+    cin >> sg.alas;
+    
+   
+   
   
    
 
