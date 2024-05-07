@@ -9,7 +9,7 @@ class persegipanjang
 
     int luaspersegipanjang(int b,int a)
     {
-        retun a*b;
+        return a*b;
     }
 
 };
@@ -31,7 +31,7 @@ class segitiga
 };
 
 int main(){
-    persegiPanjang pp;
+    PersegiPanjang pp;
     segitiga sg;
     cout << "Masukan Panjang : ";
      cin >> pp.panjang;
@@ -42,7 +42,7 @@ int main(){
     cout << "Masukan TInggi : ";
     cin >> sg.tinggi;
     cout << "Luas Persegi Panjang : " << pp.luasPersegiPanjang(pp.panjang, pp.lebar) << endl;
-     cout << "Luas Segitiga : " << sg.luasSegitiga(sg.alas, sg.tinggi) << endl;
+     cout << "Luas Segitiga : " << sg.luassegitiga(sg.alas, sg.tinggi) << endl;
 };
     
    
